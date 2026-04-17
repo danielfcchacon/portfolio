@@ -60,7 +60,7 @@ export default function Footer() {
           </div>
 
           <div className="footer-bottom">
-            {/* EDIT THIS LATER — your full name */}
+            
             <span>© {new Date().getFullYear()} Daniel Castro</span>
             <span>Built with Next.js · Deployed on Vercel</span>
           </div>

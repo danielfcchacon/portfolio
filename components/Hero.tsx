@@ -5,15 +5,15 @@ export default function Hero() {
         {/* Status */}
         <div className="hero-eyebrow">
           <span className="hero-eyebrow-dot" />
-          {/* EDIT THIS LATER — "Open to opportunities" / "Available for freelance" / "Seeking senior roles" */}
+          
           Available for new roles opportunities — consulting &amp; cofounder conversations.
         </div>
 
         {/* Name — serif display, first name normal + last name italic gold */}
         <h1 className="hero-name">
-          {/* EDIT THIS LATER — your first name */}
+          
           Daniel<br />
-          {/* EDIT THIS LATER — your last name */}
+         
           <em>Castro</em>
         </h1>
 
@@ -33,7 +33,7 @@ export default function Hero() {
             </svg>
           </a>
           <a
-            href="mailto:daniel@youremail.com"
+            href="mailto:danielfcchacon@gmail.com"
             className="btn btn-outline"
           >
             Get in touch

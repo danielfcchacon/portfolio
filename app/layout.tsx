@@ -21,11 +21,11 @@ export const metadata: Metadata = {
   
   metadataBase: new URL("https://daniel.dev"),
   openGraph: {
-    // EDIT THIS LATER — og:title for LinkedIn/Twitter previews
+    
     title: "Daniel — Engineer & Builder",
     description:
       "Engineer who builds SaaS products and understands the business behind them.",
-    // EDIT THIS LATER — add /og-image.png to your /public folder
+    
     images: ["/og-image.svg"],
   },
 };

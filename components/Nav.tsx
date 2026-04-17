@@ -16,7 +16,7 @@ export default function Nav() {
       style={{ boxShadow: scrolled ? "0 1px 0 rgba(255,255,255,0.04)" : "none" }}
     >
       <div className="nav-logo">
-        {/* EDIT THIS LATER — your initials or handle */}
+        
         D<span>.</span>C
       </div>
       <div className="nav-links">

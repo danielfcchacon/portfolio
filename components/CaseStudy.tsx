@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
-// Descomenta la línea de abajo cuando añadas tu imagen en la carpeta /public
+
 // import Image from "next/image";
 
 const stack = [
@@ -61,7 +61,7 @@ export default function CaseStudy() {
               <div className="cs-frame-dot" style={{ background: "#28c840" }} />
             </div>
             <div className="cs-frame-content">
-              {/* Cuando tengas la imagen, usa el componente <Image /> aquí */}
+              
               <span>mozes-two.vercel.app</span>
               <p style={{ color: "var(--text-3)", fontSize: "0.7rem", fontFamily: "var(--mono)" }}>
                 // Agrega /public/saas-screenshot.png y descomenta el import de Image
