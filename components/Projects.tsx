@@ -13,7 +13,7 @@ const projects: {
     color: "#6ee7b7",
     name: "Mozes",
     desc: "SaaS for agencies to manage clients, projects, and workflows — built end-to-end with authentication, payments, and scalable architecture.",
-    url: "#",
+    url: "https://mozes-two.vercel.app/",
   },
   {
     status: "building",

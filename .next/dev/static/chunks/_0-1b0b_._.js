@@ -247,8 +247,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var _s = __turbopack_context__.k.signature();
 "use client";
 ;
-// Descomenta la línea de abajo cuando añadas tu imagen en la carpeta /public
-// import Image from "next/image";
 const stack = [
     "Next.js",
     "TypeScript",
@@ -291,7 +289,7 @@ function CaseStudy() {
                     children: "Case Study — Live Product"
                 }, void 0, false, {
                     fileName: "[project]/components/CaseStudy.tsx",
-                    lineNumber: 37,
+                    lineNumber: 35,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -307,12 +305,12 @@ function CaseStudy() {
                                         children: "Mozes"
                                     }, void 0, false, {
                                         fileName: "[project]/components/CaseStudy.tsx",
-                                        lineNumber: 43,
+                                        lineNumber: 40,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 42,
+                                    lineNumber: 39,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -322,20 +320,20 @@ function CaseStudy() {
                                             className: "live-badge-dot"
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 46,
+                                            lineNumber: 43,
                                             columnNumber: 15
                                         }, this),
                                         "Live on Vercel"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 45,
+                                    lineNumber: 42,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/CaseStudy.tsx",
-                            lineNumber: 41,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -348,7 +346,7 @@ function CaseStudy() {
                             children: "A platform that helps agencies manage clients, projects, and workflows without the usual operational friction."
                         }, void 0, false, {
                             fileName: "[project]/components/CaseStudy.tsx",
-                            lineNumber: 51,
+                            lineNumber: 48,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -364,7 +362,7 @@ function CaseStudy() {
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 59,
+                                            lineNumber: 54,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -374,7 +372,7 @@ function CaseStudy() {
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 60,
+                                            lineNumber: 55,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -384,47 +382,43 @@ function CaseStudy() {
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 61,
+                                            lineNumber: 56,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 58,
+                                    lineNumber: 53,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "cs-frame-content",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            children: "mozes-two.vercel.app"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 65,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            style: {
-                                                color: "var(--text-3)",
-                                                fontSize: "0.7rem",
-                                                fontFamily: "var(--mono)"
-                                            },
-                                            children: "// Agrega /public/saas-screenshot.png y descomenta el import de Image"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 66,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("video", {
+                                    controls: true,
+                                    loop: true,
+                                    playsInline: true,
+                                    poster: "/mozesimage.png",
+                                    style: {
+                                        width: "100%",
+                                        height: "100%",
+                                        objectFit: "cover",
+                                        objectPosition: "top"
+                                    },
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("source", {
+                                        src: "/mozes-demo.mp4",
+                                        type: "video/mp4"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/CaseStudy.tsx",
+                                        lineNumber: 65,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 63,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/CaseStudy.tsx",
-                            lineNumber: 57,
+                            lineNumber: 52,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -438,7 +432,7 @@ function CaseStudy() {
                                             children: "The Problem"
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 76,
+                                            lineNumber: 71,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -446,13 +440,13 @@ function CaseStudy() {
                                             children: "Agencies were losing too much time managing clients, projects, and workflows across scattered tools. Existing solutions forced them into fragmented processes and constant context switching. There was no efficient way to unify both flows in a single system."
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 77,
+                                            lineNumber: 72,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 75,
+                                    lineNumber: 70,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -463,7 +457,7 @@ function CaseStudy() {
                                             children: "Stack"
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 84,
+                                            lineNumber: 78,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -473,18 +467,18 @@ function CaseStudy() {
                                                     children: t
                                                 }, t, false, {
                                                     fileName: "[project]/components/CaseStudy.tsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 81,
                                                     columnNumber: 19
                                                 }, this))
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 79,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 83,
+                                    lineNumber: 77,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -495,7 +489,7 @@ function CaseStudy() {
                                             children: "Key Decision"
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 94,
+                                            lineNumber: 87,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -506,20 +500,20 @@ function CaseStudy() {
                                                     children: "Next.js + Prisma + PostgreSQL"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/CaseStudy.tsx",
-                                                    lineNumber: 96,
+                                                    lineNumber: 89,
                                                     columnNumber: 25
                                                 }, this),
                                                 " over more fragmented architectures because it enables fast development with a consistent, type-safe foundation. This allowed optimizing development speed and maintainability despite reduced initial decoupling."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 95,
+                                            lineNumber: 88,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 93,
+                                    lineNumber: 86,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -530,7 +524,7 @@ function CaseStudy() {
                                             children: "Result"
                                         }, void 0, false, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 102,
+                                            lineNumber: 94,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -544,14 +538,14 @@ function CaseStudy() {
                                                     children: "Core SaaS platform fully functional"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/CaseStudy.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 96,
                                                     columnNumber: 45
                                                 }, this),
                                                 " — foundational features live with positive feedback on performance and architecture."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 103,
+                                            lineNumber: 95,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -576,47 +570,47 @@ function CaseStudy() {
                                                         d: "M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/CaseStudy.tsx",
-                                                        lineNumber: 115,
+                                                        lineNumber: 107,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/CaseStudy.tsx",
-                                                    lineNumber: 114,
+                                                    lineNumber: 106,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/CaseStudy.tsx",
-                                            lineNumber: 106,
+                                            lineNumber: 98,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/CaseStudy.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 93,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/CaseStudy.tsx",
-                            lineNumber: 73,
+                            lineNumber: 69,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/CaseStudy.tsx",
-                    lineNumber: 39,
+                    lineNumber: 37,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/CaseStudy.tsx",
-            lineNumber: 36,
+            lineNumber: 34,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/CaseStudy.tsx",
-        lineNumber: 35,
+        lineNumber: 33,
         columnNumber: 5
     }, this);
 }
@@ -647,7 +641,7 @@ const projects = [
         color: "#6ee7b7",
         name: "Mozes",
         desc: "SaaS for agencies to manage clients, projects, and workflows — built end-to-end with authentication, payments, and scalable architecture.",
-        url: "#"
+        url: "https://mozes-two.vercel.app/"
     },
     {
         status: "building",

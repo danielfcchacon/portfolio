@@ -554,6 +554,7 @@ body {
 
 .footer-response {
   opacity: .8;
+  color: var(--text-2);
   margin-top: .5rem;
   font-size: .85rem;
   display: block;
