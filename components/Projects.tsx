@@ -22,13 +22,6 @@ const projects: {
     desc: "Web tool for solving real-world optimization problems like routing, scheduling, and resource allocation — combining mathematical models with interactive visualization.",
     url: null,
   },
-  {
-    status: "idea",
-    color: "#555",
-    name: "Next product",
-    desc: "Exploring new SaaS ideas focused on automation, AI, and business workflows.",
-    url: null,
-  },
   // EDIT THIS LATER — add more projects here as you build them:
   // {
   //   status: "idea",

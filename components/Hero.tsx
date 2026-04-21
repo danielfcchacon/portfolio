@@ -1,3 +1,6 @@
+"use client";
+import ContactForm from "@/components/ContactForm";
+
 export default function Hero() {
   return (
     <section className="hero">
@@ -9,8 +12,8 @@ export default function Hero() {
           Available for new roles opportunities — consulting &amp; cofounder conversations.
         </div>
 
-        {/* Name — serif display, first name normal + last name italic gold */}
-        <h1 className="hero-name">
+        {/* Name — serif display, first name normal + last name italic gold — DOMINANT */}
+        <h1 className="hero-name hero-name-large">
           
           Daniel<br />
          
@@ -32,12 +35,7 @@ export default function Hero() {
               <path d="M5 12h14M12 5l7 7-7 7" />
             </svg>
           </a>
-          <a
-            href="mailto:danielfcchacon@gmail.com"
-            className="btn btn-outline"
-          >
-            Get in touch
-          </a>
+          <ContactForm />
         </div>
 
         {/* Subtle scroll indicator */}

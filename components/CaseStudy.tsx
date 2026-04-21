@@ -93,7 +93,7 @@ export default function CaseStudy() {
             <div className="cs-block result full">
               <span className="cs-block-label">Result</span>
               <p className="cs-block-text" style={{ marginBottom: "1.25rem" }}>
-                Deployed and in production. <strong>Core SaaS platform fully functional</strong> — foundational features live with positive feedback on performance and architecture.
+                Built solo end-to-end — <strong>full authentication, client management, project tracking, and workflow system</strong>. From zero to deployment, handling every layer of the stack independently.
               </p>
               <a
                 href="https://mozes-two.vercel.app/"

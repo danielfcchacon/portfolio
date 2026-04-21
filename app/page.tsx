@@ -1,5 +1,6 @@
 import Nav from "@/components/Nav";
 import Hero from "@/components/Hero";
+import About from "@/components/About";
 import ValueProp from "@/components/ValueProp";
 import CaseStudy from "@/components/CaseStudy";
 import Projects from "@/components/Projects";
@@ -10,6 +11,7 @@ export default function Home() {
     <main>
       <Nav />
       <Hero />
+      <About />
       <ValueProp />
       <CaseStudy />
       <Projects />
