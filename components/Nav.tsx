@@ -35,6 +35,7 @@ export default function Nav() {
       </button>
       <div className={`nav-links ${mobileMenuOpen ? "nav-links-open" : ""}`}>
         <a href="#about" onClick={() => setMobileMenuOpen(false)}>About</a>
+        <a href="#stack" onClick={() => setMobileMenuOpen(false)}>Stack</a>
         <a href="#work" onClick={() => setMobileMenuOpen(false)}>Work</a>
         <a href="#projects" onClick={() => setMobileMenuOpen(false)}>Projects</a>
         <a href="#contact" onClick={() => setMobileMenuOpen(false)}>Contact</a>

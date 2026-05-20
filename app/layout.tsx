@@ -13,20 +13,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  
+
   title: "Daniel Castro | Engineer & Builder",
-  
+
   description:
     "Engineer building SaaS products end-to-end, combining technical execution with business strategy. Helping startups ship faster, scale smarter, and turn ideas into real products.",
-  
+
   metadataBase: new URL("https://portfolio-bice-one-80.vercel.app"),
   openGraph: {
-    
-    title: "Daniel — Engineer & Builder",
+
+    title: "Daniel Castro — Engineer & Builder",
     description:
       "Engineer who builds SaaS products and understands the business behind them.",
-    
-    images: ["/og-image.svg"],
+
+    images: ["https://portfolio-bice-one-80.vercel.app/og-image.svg"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Daniel Castro — Engineer & Builder",
+    description: "Engineer who builds SaaS products and understands the business behind them.",
+    images: ["https://portfolio-bice-one-80.vercel.app/og-image.svg"],
   },
 };
 

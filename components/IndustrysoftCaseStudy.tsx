@@ -51,7 +51,7 @@ export default function IndustrysoftCaseStudy() {
           </div>
 
           <p style={{ fontSize: "0.9rem", color: "var(--text-2)", marginBottom: "1.75rem", fontWeight: 300 }}>
-            Operational Optimization SaaS — helping startups and agencies identify process bottlenecks, quantify their monetary impact, and simulate improvements.
+            A platform that helps startups and agencies identify which processes are destroying their revenue — and exactly what fixing them is worth.
           </p>
 
           <div className="cs-grid">
@@ -74,14 +74,14 @@ export default function IndustrysoftCaseStudy() {
             <div className="cs-block">
               <span className="cs-block-label">Key Decision</span>
               <p className="cs-block-text">
-                Built a custom optimization engine using <strong>Theory of Constraints + Pareto 20% + statistical outlier detection</strong> with NumPy/PuLP. Chose FastAPI for the Python backend to keep the algorithm layer clean and separate from the Next.js frontend.
+                Built a custom optimization engine combining <strong>Theory of Constraints + Pareto 20% + statistical outlier detection</strong> with NumPy/PuLP. Chose FastAPI as a separate Python backend to keep the algorithm layer independent from the Next.js frontend, then containerized everything with Docker.
               </p>
             </div>
 
             <div className="cs-block result full">
               <span className="cs-block-label">Result</span>
               <p className="cs-block-text" style={{ marginBottom: "1.25rem" }}>
-                Built solo end-to-end — <strong>full authentication, 5-step onboarding wizard, process builder with React Flow, real-time analysis engine, revenue impact calculator, simulation sliders, and full Docker deployment</strong> across three services.
+                Built solo end-to-end — <strong>full authentication, 5-step onboarding wizard, process builder with React Flow, real-time analysis engine, revenue impact calculator with real monetary values, simulation sliders, analysis history, and full Docker deployment</strong> across three services.
               </p>
               <a
                 href="https://industrysoft.vercel.app"

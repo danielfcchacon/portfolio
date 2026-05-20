@@ -6,20 +6,35 @@ const projects: {
   color: string;
   name: string;
   desc: string;
+  badge: string;
+  stack: string[];
   url: string | null;
 }[] = [
   {
-    status: "live",
-    color: "#6ee7b7",
-    name: "Mozes",
-    desc: "SaaS for agencies to manage clients, projects, and workflows — built end-to-end with authentication, payments, and scalable architecture.",
-    url: "https://mozes-two.vercel.app/",
+    status: "building",
+    color: "#fbbf24",
+    name: "AffordFit — Nutritional Optimization Platform",
+    desc: "Not a calorie tracker. A multi-objective optimization engine that decides the most efficient, affordable way to hit your nutritional goals — minimizing cost, time, and restrictions. Built for the Colombian/LATAM context with real local food prices.",
+    badge: "Coming Soon",
+    stack: ["Next.js", "TypeScript", "FastAPI", "PostgreSQL", "PuLP", "NumPy"],
+    url: null,
   },
   {
     status: "building",
     color: "#fbbf24",
-    name: "NutriOpt",
-    desc: "Multi-objective optimization engine that decides the most efficient, affordable, and realistic way to hit nutritional goals — minimizing cost, time, and restrictions.",
+    name: "Route Optimization Platform",
+    desc: "Web tool for solving real-world routing and scheduling problems — combining mathematical optimization models with interactive visualization.",
+    badge: "Coming Soon",
+    stack: ["Next.js", "Python", "FastAPI", "OR-Tools"],
+    url: null,
+  },
+  {
+    status: "idea",
+    color: "#6ee7b7",
+    name: "Full-Stack E-commerce Platform",
+    desc: "Complete e-commerce system with authentication, Stripe payment integration, purchase history, and full deployment — built end-to-end.",
+    badge: "Academic Project",
+    stack: ["React", "Node.js", "Express", "PostgreSQL", "Stripe"],
     url: null,
   },
 ];
@@ -52,33 +67,20 @@ export default function Projects() {
         <div className="section-label">What I build</div>
         <div ref={ref} className="fade-up">
           {projects.map((p) => (
-            <div key={p.name} className="project-row">
-              <div className="project-meta">
-                <div className="project-status-dot" style={{ background: p.color }} />
-                <span className="project-name">{p.name}</span>
+            <div key={p.name} className="project-card">
+              <div className="project-card-header">
+                <div className="project-meta">
+                  <div className="project-status-dot" style={{ background: p.color }} />
+                  <span className="project-name">{p.name}</span>
+                </div>
+                <span className="project-badge">{p.badge}</span>
               </div>
-              <span className="project-desc">{p.desc}</span>
-              {p.url ? (
-                <a
-                  href={p.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="project-link"
-                >
-                  <ExternalIcon />
-                </a>
-              ) : (
-                <span
-                  style={{
-                    fontSize: "0.65rem",
-                    fontFamily: "var(--mono)",
-                    color: "var(--text-3)",
-                    letterSpacing: "0.06em",
-                  }}
-                >
-                  soon
-                </span>
-              )}
+              <p className="project-desc">{p.desc}</p>
+              <div className="tags">
+                {p.stack.map((tag) => (
+                  <span key={tag} className="tag">{tag}</span>
+                ))}
+              </div>
             </div>
           ))}
         </div>

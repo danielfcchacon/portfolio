@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="hero-eyebrow">
           <span className="hero-eyebrow-dot" />
           
-          Available for new roles opportunities — consulting &amp; cofounder conversations.
+          Open to remote full-stack roles — consulting &amp; cofounder conversations.
         </div>
 
         {/* Name — serif display, first name normal + last name italic gold — DOMINANT */}

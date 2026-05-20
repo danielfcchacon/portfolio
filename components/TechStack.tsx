@@ -43,7 +43,7 @@ export default function TechStack() {
   }, []);
 
   return (
-    <section className="section" id="tech-stack">
+    <section className="section" id="stack">
       <div className="wrap">
         <div className="section-label">Tech Stack</div>
         <div ref={ref} className="fade-up tech-stack-grid">
