@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     "Engineer building SaaS products end-to-end, combining technical execution with business strategy. Helping startups ship faster, scale smarter, and turn ideas into real products.",
   
-  metadataBase: new URL("https://daniel.dev"),
+  metadataBase: new URL("https://portfolio-bice-one-80.vercel.app"),
   openGraph: {
     
     title: "Daniel — Engineer & Builder",

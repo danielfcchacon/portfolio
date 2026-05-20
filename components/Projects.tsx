@@ -18,18 +18,10 @@ const projects: {
   {
     status: "building",
     color: "#fbbf24",
-    name: "Route Optimization Platform",
-    desc: "Web tool for solving real-world optimization problems like routing, scheduling, and resource allocation — combining mathematical models with interactive visualization.",
+    name: "NutriOpt",
+    desc: "Multi-objective optimization engine that decides the most efficient, affordable, and realistic way to hit nutritional goals — minimizing cost, time, and restrictions.",
     url: null,
   },
-  // EDIT THIS LATER — add more projects here as you build them:
-  // {
-  //   status: "idea",
-  //   color: "#555",
-  //   name: "Future idea",
-  //   desc: "Brief description",
-  //   url: null,
-  // },
 ];
 
 function ExternalIcon() {

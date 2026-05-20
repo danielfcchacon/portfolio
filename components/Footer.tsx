@@ -34,6 +34,12 @@ export default function Footer() {
           <div className="footer-links">
             <ContactForm />
             <a
+              href="mailto:danielfcchacon@gmail.com"
+              className="btn btn-outline"
+            >
+              Email
+            </a>
+            <a
               href="https://linkedin.com/in/danielfcchacon"
               target="_blank"
               rel="noopener noreferrer"
