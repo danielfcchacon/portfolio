@@ -109,11 +109,11 @@ This portfolio was built to highlight:
 
 ## Contact
 
-* **LinkedIn:** *(add your link)*
-* **GitHub:** *(add your link)*
-* **Email:** *(add your email)*
+* **LinkedIn:** *https://www.linkedin.com/in/danielfcchacon/*
+* **GitHub:** *https://github.com/danielfcchacon*
+* **Email:** *Danielfcchacon@gmail.com*
 
 ---
 
-Built by **Daniel Alzate**
+Built by **Daniel Castro**
 
