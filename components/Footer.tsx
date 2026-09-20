@@ -27,7 +27,7 @@ export default function Footer() {
           </h2>
 
           <p className="footer-sub">
-            Open to full-time roles, consulting or cofounder conversations.
+            Open to full/part time roles, consulting or cofounder conversations.
             <span className="footer-response">I respond within 24 hours.</span>
           </p>
 

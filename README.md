@@ -53,7 +53,7 @@ Core features include:
 
 ### **Route Optimization Platform**
 
-Optimization platform designed to solve real-world routing, scheduling, and resource allocation problems with interactive visualization.
+Optimization platform designed to solve real world routing, scheduling, and resource allocation problems with interactive visualization.
 
 **Planned Stack:** React, Python, OR-Tools, FastAPI
 
@@ -90,7 +90,7 @@ portfolio/
 
 This portfolio was built to highlight:
 
-* **End-to-end SaaS development**
+* **End to end SaaS development**
 * **System architecture thinking**
 * **Business-oriented product development**
 * **Scalable full-stack engineering**

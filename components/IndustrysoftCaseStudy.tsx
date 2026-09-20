@@ -37,7 +37,7 @@ export default function IndustrysoftCaseStudy() {
   return (
     <section className="section" id="industrysoft">
       <div className="wrap">
-        <div className="section-label">Case Study — Live Product</div>
+        <div className="section-label">Case Study: Live Product</div>
 
         <div ref={ref} className="fade-up">
           <div className="cs-header">
@@ -51,7 +51,7 @@ export default function IndustrysoftCaseStudy() {
           </div>
 
           <p style={{ fontSize: "0.9rem", color: "var(--text-2)", marginBottom: "1.75rem", fontWeight: 300 }}>
-            A platform that helps startups and agencies identify which processes are destroying their revenue — and exactly what fixing them is worth.
+            A platform that helps startups and agencies identify which processes are destroying their revenue, and exactly what fixing them is worth.
           </p>
 
           <div className="cs-grid">
@@ -81,7 +81,7 @@ export default function IndustrysoftCaseStudy() {
             <div className="cs-block result full">
               <span className="cs-block-label">Result</span>
               <p className="cs-block-text" style={{ marginBottom: "1.25rem" }}>
-                Built solo end-to-end — <strong>full authentication, 5-step onboarding wizard, process builder with React Flow, real-time analysis engine, revenue impact calculator with real monetary values, simulation sliders, analysis history, and full Docker deployment</strong> across three services.
+                Built solo end to end — <strong>full authentication, with 5 step onboarding wizard, process builder with React Flow, real time analysis engine, revenue impact calculator with real monetary values, simulation sliders, analysis history, and full Docker deployment</strong> across three services.
               </p>
               <a
                 href="https://industrysoft.vercel.app"

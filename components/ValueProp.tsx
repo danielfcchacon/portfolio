@@ -5,17 +5,17 @@ const pillars = [
   {
     index: "01",
     title: "Systems Thinker",
-    desc: "Designing systems end-to-end — from data models to deployment, with a focus on scalability and clean architecture.",
+    desc: "Designing systems end to end, from data models to deployment, with a focus on scalability and clean architecture.",
   },
   {
     index: "02",
-    title: "Business-Aware",
-    desc: "Building with business impact in mind — prioritizing speed, retention, and sustainable growth.",
+    title: "Business Aware",
+    desc: "Building with business impact in mind, prioritizing speed, retention, and sustainable growth.",
   },
   {
     index: "03",
-    title: "Full-Stack Builder",
-    desc: "Owning the full product lifecycle — backend, frontend, and infrastructure without handoff friction.",
+    title: "Full Stack Builder",
+    desc: "Owning the full product lifecycle, backend, frontend, and infrastructure without handoff friction.",
   },
 ];
 

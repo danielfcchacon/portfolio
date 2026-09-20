@@ -31,7 +31,7 @@ export default function About() {
           </div>
           <div className="about-text">
             <p>
-              I'm a <strong>Software and Industrial Engineering student</strong> at Universidad de los Andes, with experience at <strong>Amazon</strong> and <strong>Capital One, </strong> where I learned how world-class organizations think about metrics, retention, and performance. I build full-stack products end-to-end. What sets me apart isn't the tech stack, it's understanding the business problem behind every system I build.
+              I'm a <strong>Software and Industrial Engineering student</strong> at Universidad de los Andes, with experience at <strong>Amazon</strong> and <strong>Capital One, </strong> where I learned how world class organizations think about metrics, retention, and performance. I build full stack products/services end to end. What sets me apart isn't the tech stack, it's understanding the business problem behind every system I build.
             </p>
           </div>
         </div>

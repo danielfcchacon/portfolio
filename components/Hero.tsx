@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="hero-eyebrow">
           <span className="hero-eyebrow-dot" />
           
-          Open to remote full-stack roles — consulting &amp; cofounder conversations.
+          Open to remote full-stack-software roles, consulting &amp; cofounder conversations.
         </div>
 
         {/* Name — serif display, first name normal + last name italic gold — DOMINANT */}
@@ -22,7 +22,7 @@ export default function Hero() {
 
         {/* One-liner */}
         <p className="hero-sub">
-          Engineer who builds <strong>SaaS products end-to-end</strong> and understands{" "}
+          Engineer who builds <strong>SaaS products end to end</strong> and understands{" "}
           <strong>the business behind them</strong>.{" "}
           Helping startups and companies ship faster, scale smarter, and turn ideas into real products.
         </p>
