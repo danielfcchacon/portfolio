@@ -32,7 +32,7 @@ export default function CaseStudy() {
   return (
     <section className="section" id="work">
       <div className="wrap">
-        <div className="section-label">Case Study — Live Product</div>
+        <div className="section-label">Case Study: Live Product</div>
 
         <div ref={ref} className="fade-up">
           <div className="cs-header">
@@ -86,14 +86,14 @@ export default function CaseStudy() {
             <div className="cs-block">
               <span className="cs-block-label">Key Decision</span>
               <p className="cs-block-text">
-                I chose <strong>Next.js + Prisma + PostgreSQL</strong> over more fragmented architectures because it enables fast development with a consistent, type-safe foundation. This allowed optimizing development speed and maintainability despite reduced initial decoupling.
+                I chose <strong>Next.js + Prisma + PostgreSQL</strong> over more fragmented architectures because it enables fast development with a consistent, type safe foundation. This allowed optimizing development speed and maintainability despite reduced initial decoupling.
               </p>
             </div>
 
             <div className="cs-block result full">
               <span className="cs-block-label">Result</span>
               <p className="cs-block-text" style={{ marginBottom: "1.25rem" }}>
-                Built solo end-to-end — <strong>full authentication, client management, project tracking, and workflow system</strong>. From zero to deployment, handling every layer of the stack independently.
+                Built solo end to end — <strong>full authentication, client management, project tracking, and workflow system</strong>. From zero to deployment, handling every layer of the stack independently.
               </p>
               <a
                 href="https://mozes-two.vercel.app/"
